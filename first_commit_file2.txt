@@ -1,6 +1,2 @@
 hello hello
-<<<<<<< HEAD
 xxx
-=======
-aaa
->>>>>>> origin/master
